@@ -47,7 +47,7 @@ SYSTEM READY
 
 Clone this repo:
 
-git clone https://github.com/YOURUSERNAME/f-u-c-c.git
+git clone https://github.com/Oliver-Belam/f-u-c-c.git
 cd f-u-c-c
 
 Run the program:
